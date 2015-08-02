@@ -1,2 +1,2 @@
 # thinkfree
-# free questions and logical assesments
+#questions and logical assesments
